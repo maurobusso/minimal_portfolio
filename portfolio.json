@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "name": "Mauro Busso",
+    "title": "Software Engineer",
+    "email": "mauro.busso12@gmail.com",
+    "location": "London, UK",
+    "image": "assets/me.jpg",
+    "cvUrl": "cv.pdf",
+    "bio": "Highly driven Software Engineer with 1+ year of high-impact experience in a FinTech environment and a love for code. Specialises in designing and implementing scalable backend solutions using Ruby on Rails and Kafka. Proven ability to deliver substantial business value, shown by currently leading a project in Funding Circle that is projected to generate £300k+ a year in revenue. Made the pivot from health care to the tech world to chase my passion for building products that would have a broader positive impact on people's lives."
+  },
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/maurobusso"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/maurobusso"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Product Engineer - Apprentice",
+      "company": "Funding Circle",
+      "period": "Oct-2024 — Present",
+      "description": "Working on modern web applications using React, Tailwind, and Node.js."
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Company Name",
+      "period": "2020 — 2022",
+      "description": "Built responsive UI components and improved performance and accessibility."
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Company Name",
+      "period": "2020 — 2022",
+      "description": "Built responsive UI components and improved performance and accessibility."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Degree / Program",
+      "school": "University Name",
+      "period": "2016 — 2020"
+    }
+  ]
+}

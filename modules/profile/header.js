@@ -1,26 +1,31 @@
-const HeaderModule = {
+export class HeaderModule {
+  constructor() {
+    this.imageLink = document.getElementById("imageId");
+    this.nameHeader = document.getElementById("nameId");
+    this.bioParag = document.getElementById("bioId");
+  }
+
   updateImage(image) {
-    const imageLink = document.getElementById("imageId");
-    if (imageLink) {
-      imageLink.src = image;
+    if (this.imageLink) {
+      this.imageLink.src = image;
     }
-  },
+  }
+
   updateName(name) {
-    const nameHeader = document.getElementById("nameId");
-    if (nameHeader) {
-      nameHeader.textContent = name;
+    if (this.nameHeader) {
+      this.nameHeader.textContent = name;
     }
-  },
+  }
+
   updateBio(bio) {
-    const bioParag = document.getElementById("bioId");
-    if (bioParag) {
-      nameHbioParageader.textContent = bio;
+    if (this.bioParag) {
+      this.bioParag.textContent = bio;
     }
-  },
+  }
 
   update(image, name, bio) {
     this.updateImage(image);
     this.updateName(name);
     this.updateBio(bio);
-  },
-};
+  }
+}

@@ -40,9 +40,19 @@
   ],
   "education": [
     {
-      "degree": "Degree / Program",
-      "school": "University Name",
-      "period": "2016 — 2020"
+      "degree": "Software Engineer",
+      "school": "Makers Accademy",
+      "period": "2024"
+    },
+    {
+      "degree": "Podiatry",
+      "school": "Queen Margaret University",
+      "period": "2018 - 2022"
+    },
+    {
+      "degree": "Sport Science",
+      "school": "Universita' degli Studi di Torino",
+      "period": "2012 — 2016"
     }
   ]
 }
